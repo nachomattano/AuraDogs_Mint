@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x55A54442C31734A60b19A84650a3b8e271bA57A9",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x364413cB7Ae03638c77C72E819AbCC58d7dC78D7",
+  "SCAN_LINK": "https://polygonscan.com/address/0x364413cb7ae03638c77c72e819abcc58d7dc78d7",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
-  "NFT_NAME": "Aura Dog",
+  "NFT_NAME": "Aura Dogs",
   "SYMBOL": "AD",
   "MAX_SUPPLY": 7777,
-  "WEI_COST": 1000000000000,
-  "DISPLAY_COST": 0.000001,
+  "WEI_COST": 255000000000000000000,
+  "DISPLAY_COST": 255,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
